@@ -1,0 +1,19 @@
+.button {
+    background-color: black;
+    color: white;
+    outline: none;
+    font-size: 18px;
+    right: 0;
+    margin-left: 275px;
+}
+.text_align {
+    text-align: center;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    outline: none;
+    font-size: 10px;
+    padding: 12px 0px;
+}

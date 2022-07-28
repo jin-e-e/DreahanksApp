@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\amplify",
+    "\\amplify\\backend",
+    "\\amplify\\backend\\api",
+    "\\amplify\\backend\\api\\dreamhanksholiday",
+    "\\amplify\\backend\\api\\dreamhanksholiday\\stacks",
+    "\\amplify\\hooks",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\css",
+    "\\src\\graphql"
+  ],
+  "SelectedNode": "\\src\\components\\css\\manage.css",
+  "PreviewInSolutionExplorer": false
+}
