@@ -8,10 +8,8 @@
     "\\amplify\\backend\\api\\dreamhanksholiday\\stacks",
     "\\amplify\\hooks",
     "\\src",
-    "\\src\\components",
-    "\\src\\components\\css",
-    "\\src\\graphql"
+    "\\src\\components"
   ],
-  "SelectedNode": "\\src\\components\\css\\manage.css",
+  "SelectedNode": "\\src\\components\\WorkRegist.jsx",
   "PreviewInSolutionExplorer": false
 }

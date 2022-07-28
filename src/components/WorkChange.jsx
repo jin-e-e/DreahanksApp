@@ -137,7 +137,7 @@ const WorkChange = () => {
                     <TableBody>
                         {workInfos.map((obj, index) =>
                             <TableRow key={index}>
-                                { ('土' == obj.day || '日' == obj.day) ?  [
+                                { ('土' === obj.day || '日' === obj.day) ?  [
                                     <TableCell style={{ textAlign: 'center' }}>{obj.date}</TableCell>,
                                     <TableCell style={{ textAlign: 'center', color: 'red'}}>{obj.day}</TableCell>,
                                     <TableCell style={{ textAlign: 'center' }}>
